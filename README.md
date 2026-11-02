@@ -1,3 +1,5 @@
 # React + Vite
 
-Mock Chat streaming
+ Simple Chat streaming
+
+Backend with MCP server - https://github.com/ankitkumartyagi7/MfgOprAssistant
